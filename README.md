@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=ReactQuery&logoColor=white"/>
 <br/>
-<h3>✏️ Portfolio</h3>
+<h3>📂 Portfolio</h3>
 https://jeanne-portfolio.vercel.app/
 <br /><br/><br/><br/>
   
