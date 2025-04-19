@@ -11,7 +11,7 @@
   If you're interested, feel free to contact me through any of the channels listed on the leftside.
 </p>
   <h3>💼Career</h3>
-  <b>2025.1 ~ </b> &nbsp; Carbonsaurus / Frontend Developer
+  <b>2025.1 ~ </b> &nbsp; Carbonsaurus / Frontend Developer<br/>
   <b>2023.12 ~ 2024.11</b> &nbsp; TmaxCoreAI / Frontend Developer
 <br/><br/>
   
