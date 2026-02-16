@@ -14,9 +14,7 @@
   <b>2025.1 ~ </b> &nbsp; Carbonsaurus / Frontend Developer<br/>
   <b>2023.12 ~ 2024.11</b> &nbsp; TmaxCoreAI / Frontend Developer
 <br/><br/>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeanneLee57&langs_count=8)
-<br/><br/><br/>
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/JeanneLee57"
