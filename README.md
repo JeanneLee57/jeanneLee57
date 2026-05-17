@@ -15,7 +15,7 @@
     </p>
 
   <h3>💼 Career</h3>
-  <b>2025.01 ~ </b> &nbsp; Carbonsaurus / Software Engineer<br/>
+  <b>2025.01 ~ </b> &nbsp; VoltAI / Software Engineer<br/>
   <b>2023.12 ~ 2024.11</b> &nbsp; TmaxCoreAI / Frontend Engineer
   <br/><br/>
 
